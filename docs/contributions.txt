@@ -1,0 +1,72 @@
+================================================================================
+UNIVERSITY OF MORATUWA · FACULTY OF INFORMATION TECHNOLOGY
+ASSIGNMENT 02: WEB-BASED APPLICATION DEVELOPMENT
+PROJECT: CAMPUS GATHER — UNIVERSITY EVENT & SECTION MANAGEMENT PORTAL
+GROUP CONTRIBUTIONS BREAKDOWN
+================================================================================
+
+PROJECT DETAILS:
+- Course: Web Technologies & Application Development
+- Faculty: Faculty of Information Technology, University of Moratuwa
+- Application Name: Campus Gather (FIT UoM Event & Organizing Section Manager)
+- Tech Stack: HTML5, CSS3, JavaScript (ES6+), PHP 8.2 (PDO), MySQL (XAMPP)
+
+--------------------------------------------------------------------------------
+GROUP MEMBERS & INDIVIDUAL CONTRIBUTIONS:
+--------------------------------------------------------------------------------
+
+1. Member 01 (Group Leader):
+   - Full Name: [Student Name]
+   - Student ID / Index No: [e.g., 220045B]
+   - Email: [e.g., student@mora.ac.lk]
+   - Key Contributions:
+     * System Architecture, Relational Database Design (5 tables: users, events, sections, section_members, tasks).
+     * Back-end development in PHP (session management, PDO connection, CSRF security, CRUD operations).
+     * Created Event Management Dashboard (`manage-event.php`) with applicant approval/rejection logic.
+     * Contribution Percentage: 20%
+
+2. Member 02:
+   - Full Name: [Student Name]
+   - Student ID / Index No: [e.g., 220001A]
+   - Email: [e.g., student2@mora.ac.lk]
+   - Key Contributions:
+     * Frontend UI/UX Design following modern White & Royal Blue high-contrast theme (`assets/style.css`).
+     * Implementation of responsive layout for mobile and desktop screens.
+     * Developed Homepage Calendar (`index.php`) with multi-parameter search, categories, and timeline filters.
+     * Contribution Percentage: 20%
+
+3. Member 03:
+   - Full Name: [Student Name]
+   - Student ID / Index No: [e.g., 220112C]
+   - Email: [e.g., student3@mora.ac.lk]
+   - Key Contributions:
+     * Developed Organizing Section Details Page (`section.php`) with Kanban Task Board (`To do`, `In progress`, `Done`).
+     * Implemented Student Section Application System and task status quick toggle.
+     * Pre-populated standard section templates for the 8 faculty sub-teams (Finance, Design, Logistics, Technical, etc.).
+     * Contribution Percentage: 20%
+
+4. Member 04:
+   - Full Name: [Student Name]
+   - Student ID / Index No: [e.g., 220330D]
+   - Email: [e.g., student4@mora.ac.lk]
+   - Key Contributions:
+     * Developed Event Creation System (`create-event.php`) with interactive client-side section builder (`assets/app.js`).
+     * Implemented Student Portal & Personal Dashboard (`my-dashboard.php`) for personal task and team tracking.
+     * Unit testing and validation for date constraints, capacities, and user roles.
+     * Contribution Percentage: 20%
+
+5. Member 05:
+   - Full Name: [Student Name]
+   - Student ID / Index No: [e.g., 230089E]
+   - Email: [e.g., student5@mora.ac.lk]
+   - Key Contributions:
+     * Student Authentication & Registration Module (`login.php`, `register.php`, `logout.php`).
+     * Prepared comprehensive documentation, database seeding scripts (`database.sql`), and README guide.
+     * Scripted and recorded the 8–10 minute demonstration video highlighting all CRUD workflows.
+     * Contribution Percentage: 20%
+
+--------------------------------------------------------------------------------
+DECLARATION:
+All group members have actively collaborated and contributed equitably to the planning,
+coding, testing, and documentation of this assignment project.
+================================================================================

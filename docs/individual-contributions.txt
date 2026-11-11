@@ -1,0 +1,40 @@
+CAMPUS GATHER — INDIVIDUAL CONTRIBUTIONS
+
+TEMPLATE: Replace placeholders with actual completed work. Suggested responsibilities below are a planning aid, not a claim about anyone's contribution. Use only as many entries as your group has members (maximum 5).
+
+Member 1
+Name / Student ID:
+Suggested area: HTML page structure and CSS responsive design
+Actual work completed:
+Files / functions contributed:
+Testing performed:
+
+Member 2
+Name / Student ID:
+Suggested area: database schema, configuration and PDO connection
+Actual work completed:
+Files / functions contributed:
+Testing performed:
+
+Member 3
+Name / Student ID:
+Suggested area: create and update event forms and validation
+Actual work completed:
+Files / functions contributed:
+Testing performed:
+
+Member 4
+Name / Student ID:
+Suggested area: event listing, filters, detail and delete flow
+Actual work completed:
+Files / functions contributed:
+Testing performed:
+
+Member 5
+Name / Student ID:
+Suggested area: organiser login, integration testing and documentation
+Actual work completed:
+Files / functions contributed:
+Testing performed:
+
+All members: understand the source, review integration, help prepare the report and explain their own actual contributions in the video. Declare external or AI assistance according to course requirements.
